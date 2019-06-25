@@ -1,24 +1,13 @@
 {
-  "name": "tachyons",
-  "version": "4.11.2",
-  "description": "Functional CSS for humans",
-  "author": "mrmrs",
-  "style": "css/tachyons.min.css",
-  "main": "css/tachyons.css",
-  "files": [
-    "css",
-    "src"
-  ],
-  "repository": "tachyons-css/tachyons",
-  "keywords": [
-    "css",
-    "oocss",
-    "postcss",
-    "functional css",
-    "design",
-    "responsive",
-    "performance"
-  ],
+  "name": "Portfolio",
+  "version": "1",
+  "description": "",
+  "author": "Sam Willis",
+  "style": "",
+  "main": "",
+  "files": [],
+  "repository": "portfolio-19",
+  "keywords": [],
   "license": "MIT",
   "devDependencies": {
     "copy-files": "^0.1.0",
@@ -29,14 +18,7 @@
     "watch": "^1.0.2"
   },
   "contributors": [
-    {
-      "name": "adam morse",
-      "email": "hi@mrmrs.cc"
-    },
-    {
-      "name": "john otander",
-      "url": "http://johnotander.com"
-    }
+    {}
   ],
   "scripts": {
     "start": "npm run build:watch",
